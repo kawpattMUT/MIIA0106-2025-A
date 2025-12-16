@@ -6,6 +6,13 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    std::cout << "Hello LAB2!\n";
+            
+    // Added lines to display the requested information (multiple std::cout calls)
+    std::cout << "Name: Ittiphon Jaroenwong" << std::endl;
+    std::cout << "Course: MIIA0106" << std::endl;
+    std::cout << "Email: 6811830014@mut.ac.th" << std::endl;
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

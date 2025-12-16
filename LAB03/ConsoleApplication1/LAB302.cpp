@@ -1,8 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-int main()
-{
+int main(){
     // ประกาศตัวแปรสำหรับเก็บข้อมูลนักเรียน
     string studentID;
     string studentName;

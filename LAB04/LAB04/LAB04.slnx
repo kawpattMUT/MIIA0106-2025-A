@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../1-10/1-10.vcxproj" Id="efeb0b3b-8230-4b9a-a468-cc63f7ab9aee" />
+  <Project Path="../1-100/1-100.vcxproj" Id="2f5f56db-f144-4871-b71b-23704e8bec2b" />
+  <Project Path="../1-4/1-4.vcxproj" Id="4705d6aa-ef4e-41d4-b1e9-fc0af84f9510" />
+  <Project Path="../2-20/2-20.vcxproj" Id="068e0a19-58d4-4815-8e95-102e86466d6d" />
+  <Project Path="../lab4.2/lab4.2.vcxproj" Id="c3fef897-f2b6-44bf-8eb0-4118afb558c8" />
+  <Project Path="../Line Following Robot/Line Following Robot.vcxproj" Id="9a06ada1-d6c7-4409-8270-7340f2854c01" />
+  <Project Path="../random1-100/random1-100.vcxproj" Id="e1c7a9d5-3bda-442d-8ad6-d8c015010b88" />
+  <Project Path="LAB04.vcxproj" Id="a8715091-daf5-491f-b3c3-d6826af48c5f" />
+</Solution>
