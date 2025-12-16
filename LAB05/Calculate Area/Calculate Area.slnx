@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Find Maximum/Find Maximum.vcxproj" />
+  <Project Path="../Swap Function/Swap Function.vcxproj" />
+  <Project Path="Calculate Area.vcxproj" />
+</Solution>
