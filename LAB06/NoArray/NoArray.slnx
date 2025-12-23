@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Array1di/Array1di.vcxproj" />
+  <Project Path="../Array2di/Array2di.vcxproj" />
+  <Project Path="../Dynamic Array/Dynamic Array.vcxproj" />
+  <Project Path="NoArray.vcxproj" />
+</Solution>
