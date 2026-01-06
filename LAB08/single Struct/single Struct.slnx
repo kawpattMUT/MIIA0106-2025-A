@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Array of struct/Array of struct.vcxproj" />
+  <Project Path="../Array-sortByID-Student-size-/Array-sortByID-Student-size-.vcxproj" />
+  <Project Path="../Nested Struct Summary/Nested Struct Summary.vcxproj" />
+  <Project Path="../Nested Struct/Nested Struct.vcxproj" />
+  <Project Path="../Pointer to Struct/Pointer to Struct.vcxproj" />
+  <Project Path="../structonfunction/structonfunction.vcxproj" />
+  <Project Path="single Struct.vcxproj" />
+</Solution>
